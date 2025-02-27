@@ -1,2 +1,5 @@
-print("salom")
-print("9")
+import parollar
+
+print(parollar.tg_bot_api)
+
+
